@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hierro's Diseño | Mobiliario creativo de ambientes perfectos</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="img/logo.png">
+  <meta name="description" content="Hierro's Diseño S.A.S. fabrica muebles industriales en hierro y madera con calidad, estilo y durabilidad. Conoce nuestra historia y filosofía de diseño.">
+</head>
+<body>
+
+  <!-- Encabezado -->
+  <header>
+    <img src="img/logo.png" alt="Logo Hierro's Diseño" class="logo">
+    <h1>Hierro's Diseño</h1>
+    <p class="slogan">Mobiliario creativo de ambientes perfectos</p>
+
+    <nav>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#mision">Misión</a>
+      <a href="#vision">Visión</a>
+      <a href="#valores">Propuesta de valor</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <!-- Sección Nosotros -->
+  <section id="nosotros" class="seccion">
+    <h2>Nosotros</h2>
+    <p>
+      En <strong>Hierro’s Diseño S.A.S.</strong> somos una empresa colombiana dedicada al diseño, desarrollo y producción de mobiliario industrial en hierro y madera.  
+      Nuestro objetivo es transformar los espacios en ambientes únicos, funcionales y llenos de carácter.  
+      Contamos con un equipo creativo y técnico que combina experiencia artesanal con precisión industrial.
+    </p>
+  </section>
+
+  <!-- Misión -->
+  <section id="mision" class="seccion fondo-claro">
+    <h2>Misión</h2>
+    <p>
+      Crear muebles de alta calidad y diseño exclusivo que integren el hierro y la madera, ofreciendo productos duraderos, auténticos y funcionales que embellezcan los espacios de nuestros clientes.
+    </p>
+  </section>
+
+  <!-- Visión -->
+  <section id="vision" class="seccion">
+    <h2>Visión</h2>
+    <p>
+      Ser una marca líder en el diseño y fabricación de mobiliario industrial en Bogotá y en toda Colombia, reconocida por la innovación, la calidad y el compromiso con la satisfacción de nuestros clientes.
+    </p>
+  </section>
+
+  <!-- Propuesta de valor -->
+  <section id="valores" class="seccion fondo-claro">
+    <h2>Propuesta de Valor</h2>
+    <p>
+      En <strong>Hierro’s Diseño</strong> ofrecemos <em>mobiliario industrial auténtico y duradero</em>, con acabados que reflejan el equilibrio entre fuerza y elegancia.  
+      Cada pieza está pensada para crear ambientes acogedores y modernos, adaptándose a los estilos de vida de familias, nuevos propietarios y emprendedores.
+    </p>
+  </section>
+
+  <!-- Contacto -->
+  <section id="contacto" class="seccion contacto">
+    <h2>Contáctanos</h2>
+    <p><strong>Dirección:</strong> Cra 51 #74a-23, Bogotá, Colombia</p>
+    <p><strong>WhatsApp:</strong> <a href="https://wa.me/573007510575" target="_blank">+57 300 751 0575</a></p>
+    <p><strong>Instagram:</strong> <a href="https://www.instagram.com/hierrosdiseño.co" target="_blank">@hierrosdiseño.co</a></p>
+    <p><strong>Horario de atención:</strong> Lunes a sábado, de 11:00 a.m. a 6:00 p.m.</p>
+  </section>
+
+  <!-- Pie de página -->
+  <footer>
+    <p>© 2025 Hierro’s Diseño S.A.S. | Todos los derechos reservados</p>
+  </footer>
+
+</body>
+</html>
